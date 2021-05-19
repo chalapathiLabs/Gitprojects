@@ -1,5 +1,0 @@
-# This si sample git pro
-# practise git
-# git commands 
-# Git add git commit git push 
-
